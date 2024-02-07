@@ -1,0 +1,35 @@
+
+body{
+	background: grey;
+}
+.container{
+
+}
+.row{
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+#header{
+	background: orange;
+}
+#menu{
+	background: pink;
+}
+#menu ul{
+	margin:0;
+	padding:10px;
+	display: flex;
+}
+#content{
+	background: white;
+}
+#sidebar{
+	background: lightblue;
+}
+#footer{
+	background: orange;
+}
